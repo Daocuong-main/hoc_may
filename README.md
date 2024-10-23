@@ -44,7 +44,7 @@ a) Chuẩn hóa dữ liệu cột Age, Salary, Experience theo phương pháp Mi
 
 b) Sử dụng mạng nơ-ron trên làm mô hình phân lớp nhị phân (ngưỡng xác suất th = 0.5, xác suất ≥ 0.5 là nhãn 1, < 0.5 là nhãn 0). Xác định nhãn được dự đoán bởi mô hình.
 
-c) Đánh giá mô hình bằng các chỉ số TF, TP, FP, FN, F1-Score, Accuracy và xây dựng confusion matrix. Nhận xét về kết quả phân lớp.
+c) Đánh giá mô hình bằng các chỉ số TN, TP, FP, FN, F1-Score, Accuracy và xây dựng confusion matrix. Nhận xét về kết quả phân lớp.
 
 **Câu 2:** Cho hàm số f(x₀, x₁, x₂, x₃) = (x₀ + x₁)*(x₂ - x₃)²
 
