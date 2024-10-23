@@ -1,5 +1,5 @@
 **Câu 1:** Cho cấu trúc mạng nơ-ron nhân tạo như sau:
-
+![Kien truc mang](https://github.com/Daocuong-main/hoc_may/blob/main/Untitled%20Diagram.svg)
 - Mạng nơ-ron 4 đầu vào (x1, x2, x3, x4)
 - 3 nơ-ron ẩn (p1, p2, p3) sử dụng hàm kích hoạt tanh
 - 1 nơ-ron đầu ra (σ) sử dụng hàm kích hoạt sigmoid
